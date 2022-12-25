@@ -1,3 +1,3 @@
-# codeit examples
+# writecode examples
 
-This repository contains examples of using codeit in Python, Rust, and Go.
+This repository contains examples of using writecode to write code in Python, Rust, and Go.

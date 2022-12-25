@@ -1,8 +1,8 @@
-Here is the example of how to generate Rust code using codeit:
+Here is the example of how to generate Rust code using writecode:
 
 
 ```python
-from codeit import code
+from writecode import code
 
 # Generate a Rust code snippet based on the given prompt
 prompt = "Write a function that takes a list of integers and returns the sum of the even numbers in the list."
